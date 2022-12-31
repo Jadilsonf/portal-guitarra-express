@@ -101,6 +101,12 @@ header{
       
       position: relative;
   }
+
+  .jf{
+    display: block;
+    width: 40%;;
+    position: relative
+  }
   .img-destaque img{
       width:100%;
       border-radius:20px;
